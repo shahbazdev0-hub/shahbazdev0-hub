@@ -1,10 +1,10 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Shahbaz+Aslam;Full+Stack+%26+AI+Engineer;LLM+%26+Voice+AI+Specialist;Building+the+Future+with+AI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahbazdev0&label=Profile%20Views&color=6E40C9&style=flat-square" alt="shahbaz" />
-  <img src="https://img.shields.io/github/followers/shahbazdev0?label=Followers&style=flat-square&color=6E40C9" alt="followers" />
 </p>
 
 ---
@@ -12,16 +12,16 @@
 ## 🧠 About Me
 
 ```yaml
-name        : Shahbaz Aslam
-role        : Full Stack Developer | AI/LLM Engineer | Voice AI Specialist
-education   : Software Engineering, University of Lahore (Final Year)
-email       : shahbazdev0@gmail.com
-focus       : AI-Powered SaaS · LLM Integration · Real-Time Voice Systems · Backend Architecture
-status      : Open to Freelance & Collaboration
+Name        : Shahbaz Aslam
+Role        : Full Stack Developer | AI/LLM Engineer | Voice AI Specialist
+Education   : Software Engineering, University of Lahore
+Email       : shahbazdev0@gmail.com
+Focus       : AI-Powered SaaS · LLM Integration · Real-Time Voice Systems · Backend Architecture
+Status      : Open to Freelance & Collaboration
 ```
 
 <p>
-Passionate Full Stack Developer and AI Engineer specializing in LLM-integrated applications, real-time AI voice systems, and scalable backend architectures. Currently in my final year of Software Engineering, building an AI-powered academic performance analysis platform as my Final Year Project. With hands-on production experience across healthcare, SaaS, and travel sectors, I architect end-to-end solutions that combine cutting-edge AI capabilities with robust engineering — from sub-2-second latency voice agents to enterprise EHR platforms and call center automation systems.
+Passionate Full Stack Developer and AI Engineer specializing in LLM-integrated applications, real-time AI voice systems, and scalable backend architectures. Currently in my final year of Software Engineering, building an AI-powered academic performance analysis platform as my Final Year Project. With hands-on production experience across healthcare, SaaS, and travel sectors, I architect end-to-end solutions that combine cutting-edge AI capabilities with robust engineering from sub-2-second latency voice agents to enterprise EHR platforms and call center automation systems.
 </p>
 
 ---
@@ -112,7 +112,7 @@ Passionate Full Stack Developer and AI Engineer specializing in LLM-integrated a
 | 🎙️ **NexusCall AI** | AI-powered call center SaaS with sub-2s voice response latency | FastAPI · Twilio · Deepgram · ElevenLabs · OpenAI |
 | 🏥 **MedAI** | AI front office automation platform with voice intake for healthcare | VAPI · Next.js · FastAPI · EHR Integration |
 | 🎓 **Academic AI Analyzer** | FYP — AI-powered student academic performance analysis system | Python · ML · React · FastAPI |
-| ✈️ **Noor Umrah Travels** | Full-stack travel booking platform with UI/UX overhaul | Next.js · Node.js · PostgreSQL |
+| ✈️ **Umrah Travels** | Full-stack travel booking platform with UI/UX overhaul | Next.js · Node.js · PostgreSQL |
 | 📞 **Venderia** | Automated sales-pitching call platform with CRM integration | Node.js · Twilio · OpenAI · MongoDB |
 
 ---
@@ -129,12 +129,12 @@ Passionate Full Stack Developer and AI Engineer specializing in LLM-integrated a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahbazdev0&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shahbaz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazdev0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahbazdev0-hub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shahbaz's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbazdev0-hub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazdev0&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazdev0-hub&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
 ---
